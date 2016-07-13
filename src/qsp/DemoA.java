@@ -9,6 +9,7 @@ public static void main(String args[])
 	System.out.println("from praveen eclipse to pri github");
 	System.out.println("from pri github to praveen eclipse");
 	System.out.println("Praveen, you r very nalayak......");
+	System.out.println("Are mand, lavkar pull kar....");
 }
 
 }
